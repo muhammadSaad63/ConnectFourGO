@@ -1,15 +1,9 @@
-# ... (...) ...
-... :>
+# ConnectFourGO 🦦
+A high-performance Connect Four engine and TUI built in Go. Refactored from C to leverage concurrency (Goroutines) for AI and the Bubble Tea framework for a reactive terminal experience. :D 
 
 <br>
 
 ---
-
-<br>
-
-
-## About ℹ️
-lorem ipsum
 
 <br>
 
